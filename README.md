@@ -1,4 +1,4 @@
-# Hey, I'm Usman 👋
+# Hey, I'm Usman Khan 👋
 
 I'm a Strategy & Operations professional based in San Francisco — formerly at EY-Parthenon and Oracle Cerner, now building at the intersection of ops and AI.
 
