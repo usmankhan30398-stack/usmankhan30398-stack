@@ -1,6 +1,6 @@
 # Hey, I'm Usman Khan 👋
 
-I'm a Strategy & Operations professional based in San Francisco — formerly at EY-Parthenon and Oracle Cerner, now building at the intersection of ops and AI.
+I'm a Strategy & Operations professional based in San Francisco — formerly at CGI and Oracle, now building at the intersection of ops and AI.
 
 Most people in ops write documents about process improvements. I've started building them instead.
 
@@ -21,8 +21,8 @@ I focus on tools that solve real operational problems — the kind that ops team
 
 ## Background
 
-- 🏢 Strategy consulting at **EY-Parthenon** — market entry, org design, growth strategy
-- 🏥 Operations at **Oracle Cerner** — healthcare IT, client implementations
+- 🏢 AI Advisory, Corporate Strategy at **CGI** — AI implementation, org design, growth strategy
+- 🏥 Operations at **Oracle Health** — healthcare IT, client implementations
 - 🎓 MBA, **Carnegie Mellon Tepper School of Business**
 - 📍 Based in **San Francisco**, focused on ops, product ops, and Chief of Staff roles at startups
 
