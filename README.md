@@ -74,4 +74,4 @@ I don't use AI to replace thinking — I use it to remove the parts of ops work 
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/usmankhan30398) · San Francisco, CA 
+[LinkedIn](https://www.linkedin.com/in/usmankhan1486/) · San Francisco, CA 
