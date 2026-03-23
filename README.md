@@ -15,7 +15,7 @@ I focus on tools that solve real operational problems — the kind that ops team
 | [Release Intelligence Layer](https://github.com/usmankhan30398-stack/release-intelligence-layer) | Ingests completed Linear tickets and generates 5 audience-specific artifacts in parallel — customer notes, changelogs, sales briefs, CS FAQs, and Slack announcements |
 | [Product Ops Triage](https://github.com/usmankhan30398-stack/product-ops-triage) | Turns raw customer feedback into P0–P3 prioritized themes with sentiment scoring, category tagging, and auto-drafted PRD tickets — runs entirely in the browser |
 | [Chief of Staff Dashboard](https://github.com/usmankhan30398-stack/Chief-of-Staff-Dashboard) | Lightweight operating hub for executive briefings, OKR tracking, and priority reviews — [live demo](https://usmankhan30398-stack.github.io/Chief-of-Staff-Dashboard/) |
-| [AI Strategy Portfolio](https://github.com/usmankhan30398-stack/AI-Strategy-Portfolio) | Case studies, prompts, and workflows for applying AI to ops and strategy problems |
+| [Ops Playbook](https://github.com/usmankhan30398-stack/AI-Strategy-Portfolio) | Case studies, prompts, and workflows for applying AI to ops and strategy problems |
 
 ---
 
