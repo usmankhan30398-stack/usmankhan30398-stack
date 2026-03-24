@@ -8,7 +8,7 @@ Most people in ops write documents about process improvements. I've started buil
 
 ## What I Build
 
-I focus on tools that solve real operational problems — the kind that ops teams and product orgs hit every week but rarely have time to fix properly.
+I focus on tools that solve real operational problems, the kind that ops teams and product orgs hit every week but rarely have time to fix properly.
 
 | Project | What It Does |
 |---|---|
