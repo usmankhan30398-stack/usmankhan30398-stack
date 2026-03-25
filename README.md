@@ -31,7 +31,7 @@ I focus on tools that solve real operational problems, the kind that ops teams a
 
 ## How I Think About AI
 
-I don't use AI to replace thinking — I use it to remove the parts of ops work that shouldn't require thinking. The projects here reflect that: classification pipelines, structured outputs, automated communication layers. Things that free up teams to focus on decisions, not formatting.
+I don't use AI to replace thinking, I use it to remove the parts of ops work that shouldn't require thinking. The projects here reflect that: classification pipelines, structured outputs, automated communication layers. Things that free up teams to focus on decisions, not formatting.
 
 ---
 
