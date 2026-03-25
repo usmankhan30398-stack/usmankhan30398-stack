@@ -25,7 +25,7 @@ I focus on tools that solve real operational problems, the kind that ops teams a
 - 🏢 AI Advisory, Corporate Strategy at **CGI** — AI implementation, org design, growth strategy
 - 🏥 Operations at **Oracle Health** — healthcare IT, client implementations
 - 🎓 MBA, **Carnegie Mellon Tepper School of Business**
-- 📍 Based in **San Francisco**, focused on ops, product ops, and Chief of Staff roles at startups
+- 📍 Based in **San Francisco**, focused on ops, product ops, and Chief of Staff roles
 
 ---
 
